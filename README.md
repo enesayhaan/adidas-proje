@@ -1,1 +1,1 @@
-# adidass
+# adidas-proje
